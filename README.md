@@ -2,7 +2,7 @@
 1. git clone the project
 2. create conda environment
 ```ruby
-conda create --name GAT-ST --file requirements.txt
+conda create --name GATST --file requirements.txt
 ```
 3. Train
 ```ruby
